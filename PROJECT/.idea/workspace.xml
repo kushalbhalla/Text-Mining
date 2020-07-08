@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1a5e9d4-bc1d-4464-9c54-8ace53a69b61" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZD6dHFkWmf2ESJU4FQBFqKb2mJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/harshit/vpad.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/inter.py" />
+  </component>
+  <component name="RunManager" selected="Python.inter (1)">
+    <configuration name="Army (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Army (1).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Mainc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mainc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inter (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inter (1).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new inter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new inter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tree (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree (2).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.inter (1)" />
+        <item itemvalue="Python.new inter" />
+        <item itemvalue="Python.Mainc" />
+        <item itemvalue="Python.tree (2)" />
+        <item itemvalue="Python.Army (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1a5e9d4-bc1d-4464-9c54-8ace53a69b61" name="Default Changelist" comment="" />
+      <created>1584361402342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584361402342</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584361544346">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state x="141" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.698@0.27.1366.698" timestamp="1584361544346" />
+    <state x="48" y="181" width="583" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584971025610">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state x="48" y="181" width="583" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.698@0.27.1366.698" timestamp="1584971025610" />
+    <state x="416" y="124" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586239075362">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state x="416" y="124" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.698@0.27.1366.698" timestamp="1586239075362" />
+    <state x="5" y="141" width="1166" height="500" key="DiffContextDialog" timestamp="1584797785887">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state x="5" y="141" width="1166" height="500" key="DiffContextDialog/0.27.1366.698@0.27.1366.698" timestamp="1584797785887" />
+    <state x="466" y="133" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586180783522">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state x="466" y="133" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.698@0.27.1366.698" timestamp="1586180783522" />
+    <state width="1366" height="133" key="GridCell.Tab.0.bottom" timestamp="1588924194379">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state width="1366" height="133" key="GridCell.Tab.0.bottom/0.27.1366.698@0.27.1366.698" timestamp="1588924194379" />
+    <state width="1366" height="133" key="GridCell.Tab.0.center" timestamp="1588924194378">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state width="1366" height="133" key="GridCell.Tab.0.center/0.27.1366.698@0.27.1366.698" timestamp="1588924194378" />
+    <state width="1366" height="133" key="GridCell.Tab.0.left" timestamp="1588924194378">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state width="1366" height="133" key="GridCell.Tab.0.left/0.27.1366.698@0.27.1366.698" timestamp="1588924194378" />
+    <state width="1366" height="133" key="GridCell.Tab.0.right" timestamp="1588924194379">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state width="1366" height="133" key="GridCell.Tab.0.right/0.27.1366.698@0.27.1366.698" timestamp="1588924194379" />
+    <state width="1362" height="230" key="GridCell.Tab.1.bottom" timestamp="1585982588739">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state width="1362" height="230" key="GridCell.Tab.1.bottom/0.27.1366.698@0.27.1366.698" timestamp="1585982588739" />
+    <state width="1362" height="230" key="GridCell.Tab.1.center" timestamp="1585982588738">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state width="1362" height="230" key="GridCell.Tab.1.center/0.27.1366.698@0.27.1366.698" timestamp="1585982588738" />
+    <state width="1362" height="230" key="GridCell.Tab.1.left" timestamp="1585982588738">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state width="1362" height="230" key="GridCell.Tab.1.left/0.27.1366.698@0.27.1366.698" timestamp="1585982588738" />
+    <state width="1362" height="230" key="GridCell.Tab.1.right" timestamp="1585982588739">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state width="1362" height="230" key="GridCell.Tab.1.right/0.27.1366.698@0.27.1366.698" timestamp="1585982588739" />
+    <state x="172" y="27" width="1012" height="698" key="SettingsEditor" timestamp="1584967431188">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state x="172" y="27" width="1012" height="698" key="SettingsEditor/0.27.1366.698@0.27.1366.698" timestamp="1584967431188" />
+    <state x="339" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1588916804492">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state x="339" y="202" key="com.intellij.ide.util.TipDialog/0.27.1366.698@0.27.1366.698" timestamp="1588916804492" />
+    <state x="422" y="250" width="716" height="301" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584361819433">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state x="422" y="250" width="716" height="301" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.27.1366.698@0.27.1366.698" timestamp="1584361819433" />
+    <state x="273" y="37" width="800" height="677" key="scopes" timestamp="1584361717983">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state x="273" y="37" width="800" height="677" key="scopes/0.27.1366.698@0.27.1366.698" timestamp="1584361717983" />
+    <state x="346" y="46" width="672" height="678" key="search.everywhere.popup" timestamp="1584535862746">
+      <screen x="0" y="27" width="1366" height="698" />
+    </state>
+    <state x="346" y="46" width="672" height="678" key="search.everywhere.popup/0.27.1366.698@0.27.1366.698" timestamp="1584535862746" />
+  </component>
+</project>
